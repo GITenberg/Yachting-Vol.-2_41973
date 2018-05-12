@@ -1,0 +1,50 @@
+_repo: Yachting-Vol.-2_41973
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41973-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Middleton, T. B.
+    gutenberg_agent_id: '41462'
+    url: http://www.gutenberg.org/2009/agents/41462
+  - agent_name: Dufferin and Ava, Frederick Temple Blackwood, Marquis of
+    aliases:
+    - Dufferin, Frederick Temple Blackwood, Earl of
+    - Dufferin and Ava, Frederick Temple Hamilton-Temple-Blackwood, Marquis of
+    - Dufferin, Lord
+    - Hamilton-Temple-Blackwood, Frederick Temple, Marquis of Dufferin and Ava
+    - Blackwood, Frederick Temple, Earl of Dufferin
+    birthdate: 1826
+    deathdate: 1902
+    gutenberg_agent_id: '1271'
+    url: http://www.gutenberg.org/2009/agents/1271
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava
+  - agent_name: McFerran, James
+    gutenberg_agent_id: '41460'
+    url: http://www.gutenberg.org/2009/agents/41460
+  - agent_name: Pritchett, R. T. (Robert Taylor)
+    alias: Pritchett, Robert Taylor
+    birthdate: 1828
+    deathdate: 1907
+    gutenberg_agent_id: '34159'
+    url: http://www.gutenberg.org/2009/agents/34159
+  - agent_name: Blake, G. L.
+    gutenberg_agent_id: '41461'
+    url: http://www.gutenberg.org/2009/agents/41461
+description: ''
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yacht racing'
+- !lcsh 'Yachting'
+- !lcsh 'Yachts'
+- !lcc 'GV'
+title: Yachting, Vol. 2
+url: http://www.gutenberg.org/ebooks/41973
